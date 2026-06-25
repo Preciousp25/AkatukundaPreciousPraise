@@ -51,7 +51,7 @@ class Transfer(Transaction):
         print("Transfer transaction processed.")
 
 
-# Demonstration
+
 
 print("DEPOSIT")
 d = Deposit("Employer", 1000)
