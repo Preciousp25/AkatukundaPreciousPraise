@@ -1,0 +1,12 @@
+{
+    "CS001": {
+        "address": "Kampala Central",
+        "contact": "0700000001",
+        "program_level": "Year 2"
+    },
+    "CS002": {
+        "address": "Ntinda",
+        "contact": "0700000002",
+        "program_level": "Year 3"
+    }
+}
